@@ -1,0 +1,3 @@
+[submodule "lib/twitterlibphp"]
+	path = lib/twitterlibphp
+	url = git://github.com/polotek/twitterlibphp.git
